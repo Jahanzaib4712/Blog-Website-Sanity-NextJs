@@ -1,3 +1,5 @@
+
+
 import Image from "next/image";
 import Link from "next/link";
 import logoDark from "../public/images/logoDark.png";
@@ -24,7 +26,7 @@ const Header = () => {
           <div className="flex items-center gap-1">
             <img
               className="w-8 h-8 rounded-full"
-              src="https://www.noormohammad.live/static/media/roundedProfile.477a194221d255c8ce26.png"
+              src="/images/image1.jpg"
               alt="logo"
             />
             <p className="text-sm font-medium">Hello Stranger!</p>
